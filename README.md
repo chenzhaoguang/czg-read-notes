@@ -21,4 +21,4 @@
 
 如果你感觉有收获，欢迎给我打赏 ———— 以激励我更多输出优质开源内容
 
-![图片](http://qd3qeb0if.bkt.clouddn.com/static%5Csunny%5CmpPay.jpg)
+![图片](https://github.com/chenzhaoguang/czg-read-notes/blob/master/book/img/weixin/mpPay.jpg)
